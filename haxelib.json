@@ -1,0 +1,8 @@
+{
+    "name": "cocktail-timer",
+    "url": "https://github.com/haxecocktail/cocktail-timer",
+    "licence": "MIT",
+    "version": "0.0.1",
+    "description": "event loop for cocktail's document",
+    "contributors": ["Yannick Dominguez"]
+}
